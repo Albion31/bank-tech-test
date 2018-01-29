@@ -3,3 +3,5 @@
 # bank = Bank.new
 # bank.deposit(1000)
 # bank.balance
+# bank.withdrawal(50)
+# bank.balance
